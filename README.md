@@ -33,5 +33,5 @@ Built with Flask, Jinja, MySQL, API
 
 ## **Screenshots:**
 ![Img](./Library.png)
-![Img](./Library 2.png)
+![Img](https://github.com/polaiee/Flask-Library/blob/main/Library%202.png)
 
