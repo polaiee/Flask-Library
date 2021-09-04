@@ -33,5 +33,5 @@ Built with Flask, Jinja, MySQL, API
 
 ## **Screenshots:**
 ![Img](./Library.png)
-![Img2](./Library 2.png)
+![Img](./Library 2.png)
 
